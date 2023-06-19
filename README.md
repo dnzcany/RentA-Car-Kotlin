@@ -1,4 +1,4 @@
-#  RentACarApp :car:
+#  RentACarApp
 Rent A Car App In Kotlin - Android Studio With Firebase Authentication + Firebase Firestore And Beautiful Lottie Animation
 
 
