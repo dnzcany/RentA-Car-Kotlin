@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88752543561",
+    "project_id": "dencar1-7cfea",
+    "storage_bucket": "dencar1-7cfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88752543561:android:7e71a73d17614e1e892c98",
+        "android_client_info": {
+          "package_name": "com.denobaba.dencar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88752543561-doeorf7bcd33sajjmtjrlc8o2blfaage.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1dlEFea8JwnU55m9l3JPxiTz390WoBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88752543561-doeorf7bcd33sajjmtjrlc8o2blfaage.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
